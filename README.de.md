@@ -21,6 +21,34 @@
 
 ---
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Acht Kartendecks zur Auswahl
+
+<p align="center"><img src="screenshots/01.png" alt="Acht Kartendecks zur Auswahl" width="850"></p>
+
+### 2️⃣ Legeart wählen
+
+<p align="center"><img src="screenshots/02.png" alt="Legeart wählen" width="850"></p>
+
+### 3️⃣ Karten selbst aus dem Fächer ziehen
+
+<p align="center"><img src="screenshots/03.png" alt="Karten selbst aus dem Fächer ziehen" width="850"></p>
+
+### 4️⃣ Hintergrundwissen zu jedem Deck
+
+<p align="center"><img src="screenshots/04.png" alt="Hintergrundwissen zu jedem Deck" width="850"></p>
+
+### 5️⃣ Design wählen
+
+<p align="center"><img src="screenshots/05.png" alt="Design wählen" width="850"></p>
+
+### 6️⃣ Integrierte Hilfe
+
+<p align="center"><img src="screenshots/06.png" alt="Integrierte Hilfe" width="850"></p>
+
+---
+
 ## ✨ Funktionen
 
 - 🚀 **Acht Kartendecks in einem Programm:** Madame Lenormand (36), Kipper (36), Tarot (78), Skat (32), Zigeunerkarten (52), Elfenorakel (55), Erzengel-Orakel und Feen-Heilorakel.

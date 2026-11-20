@@ -21,6 +21,34 @@
 
 ---
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ Choose from eight card decks
+
+<p align="center"><img src="screenshots/01.png" alt="Choose from eight card decks" width="850"></p>
+
+### 2️⃣ Choose the spread
+
+<p align="center"><img src="screenshots/02.png" alt="Choose the spread" width="850"></p>
+
+### 3️⃣ Draw the cards yourself from the fan
+
+<p align="center"><img src="screenshots/03.png" alt="Draw the cards yourself from the fan" width="850"></p>
+
+### 4️⃣ Background knowledge for every deck
+
+<p align="center"><img src="screenshots/04.png" alt="Background knowledge for every deck" width="850"></p>
+
+### 5️⃣ Choose a design
+
+<p align="center"><img src="screenshots/05.png" alt="Choose a design" width="850"></p>
+
+### 6️⃣ Built-in help
+
+<p align="center"><img src="screenshots/06.png" alt="Built-in help" width="850"></p>
+
+---
+
 ## ✨ Features
 
 - 🚀 **Eight decks in one program:** Madame Lenormand (36), Kipper (36), Tarot (78), Skat (32), Gypsy cards (52), Elf oracle (55), Archangel oracle and Fairy healing oracle.
