@@ -21,6 +21,54 @@
 
 ---
 
+## 📖 About GLX Kartenlegen
+
+### Card reading like at your own table
+
+GLX Kartenlegen brings the card reader from silbermuschel.de to your Windows PC as a standalone program. The card table sits large on the right, a small, clear menu on the left. You shuffle, lay out and read the interpretation at your own pace, without a browser and without ads.
+
+### Created with Regina Toumi
+
+GLX Kartenlegen and all card systems in it were created in cooperation with Regina Toumi. With her support the decks, spreads and interpretations were put together so that they feel like a reading at a real table.
+
+### Eight card decks in one program
+
+Madame Lenormand (36 cards), Kipper (36), Tarot (78), Skat (32), Gypsy cards (52), Elf Oracle (55), Archangel Oracle and Fairy Healing Oracle. Each deck has its own lovingly designed card images and card backs.
+
+### Shuffle, cut, lay out
+
+One click shuffles the cards and fans them out on the table. Let the program lay the cards or draw them yourself one by one from the fan. Each card moves to its place, and a click on a laid card shows its meaning in exactly that position.
+
+### Spreads from the daily card to the Grand Tableau
+
+Each deck has its own spreads, from a single card to three or five cards up to the Grand Tableau with all 36 Lenormand cards. The guide shows a drawing of where each card lies and explains how to lay, turn over and read.
+
+### Short or detailed interpretation
+
+Once all cards are laid, the interpretation opens by itself in a large window: first an overall message with advice, below it every card to expand. You choose a short or detailed reading. The interpretation can be printed or saved as a PDF.
+
+### Save and share readings
+
+Every reading is saved as a small file with the extension .ginax. Double-clicking it opens GLX Kartenlegen and lays the same cards with the same interpretation on the table again. Keep your readings or send them to others who also have GLX Kartenlegen.
+
+### History of the decks
+
+Where does Lenormand come from, how did Tarot begin? Every deck comes with its history and reading tips, right in the program, large and easy to read.
+
+### Warm, clear, easy for everyone
+
+8 designs: Silbermuschel, Light, Ocean, Forest, Sunset, Ruby, Sand and Lavender. Large buttons, a friendly font, tooltips and built-in help with search. The program starts in full screen and remembers your design.
+
+### Your computer, your cards
+
+GLX Kartenlegen works on your PC. Cards, interpretations and saved readings are never sent to the internet. Only the update check asks glx-tools.de for a new version, which you install with one click.
+
+### Try it free for 14 days
+
+Try everything for 14 days without limits. After that you unlock the program with your licence key. The guide and the history of the decks remain readable without a licence.
+
+---
+
 ## 📸 Overview & Screenshots
 
 ### 1️⃣ Choose from eight card decks

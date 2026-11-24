@@ -21,6 +21,54 @@
 
 ---
 
+## 📖 Über GLX Kartenlegen
+
+### Kartenlegen wie am eigenen Tisch
+
+GLX Kartenlegen bringt den Kartenleger von silbermuschel.de als eigenes Programm auf deinen Windows-PC. Rechts liegt groß der Kartentisch, links ein kleines, übersichtliches Menü. Du mischst, legst und liest die Deutung in Ruhe, ganz ohne Browser und ohne Werbung.
+
+### Entstanden mit Regina Toumi
+
+GLX Kartenlegen und alle Kartenlegesysteme darin sind in Zusammenarbeit mit Regina Toumi entstanden. Mit ihrer Unterstützung wurden die Decks, die Legearten und die Deutungen zusammengestellt, damit sie sich anfühlen wie eine Legung am echten Tisch.
+
+### Acht Kartendecks in einem Programm
+
+Madame Lenormand (36 Karten), Kipper (36), Tarot (78), Skat (32), Zigeunerkarten (52), Elfenorakel (55), Erzengelorakel und Feen-Heil-Orakel. Jedes Deck mit seinen eigenen, liebevoll gestalteten Kartenbildern und Kartenrücken.
+
+### Mischen, abheben, legen
+
+Mit einem Klick werden die Karten gemischt und als Fächer auf den Tisch gelegt. Du lässt das Programm legen oder ziehst selbst Karte für Karte aus dem Fächer. Jede Karte wandert an ihren Platz, und ein Klick auf eine gelegte Karte zeigt ihre Bedeutung genau an dieser Stelle.
+
+### Legearten von der Tageskarte bis zur Großen Tafel
+
+Jedes Deck hat seine eigenen Legearten, von einer einzelnen Karte über drei oder fünf Karten bis zur Großen Tafel mit allen 36 Lenormandkarten. Die Anleitung zeigt mit einer Zeichnung, wo welche Karte liegt, und erklärt, wie gelegt, aufgedeckt und gelesen wird.
+
+### Deutung kurz oder ausführlich
+
+Liegen alle Karten, öffnet sich die Deutung von selbst im großen Fenster: zuerst eine Gesamtaussage mit einem Rat, darunter jede Karte zum Aufklappen. Du wählst, ob kurz oder ausführlich gedeutet wird. Die Deutung lässt sich ausdrucken oder als PDF speichern.
+
+### Legungen speichern und weitergeben
+
+Jede Legung speicherst du als kleine Datei mit der Endung .ginax. Ein Doppelklick darauf öffnet GLX Kartenlegen und legt dieselben Karten mit derselben Deutung wieder auf den Tisch. So kannst du Legungen aufheben oder an andere schicken, die GLX Kartenlegen auch haben.
+
+### Geschichte der Decks
+
+Woher kommt das Lenormand, wie ist das Tarot entstanden? Zu jedem Deck gibt es die Geschichte und Tipps zum Lesen, direkt im Programm, groß und gut lesbar.
+
+### Warm, übersichtlich, für jeden leicht
+
+8 Designs: Silbermuschel, Hell, Ozean, Wald, Abendrot, Rubin, Sand und Lavendel. Große Knöpfe, eine freundliche Schrift, Hinweise beim Zeigen mit der Maus und eine eingebaute Hilfe mit Suche. Das Programm startet im Vollbild und merkt sich dein Design.
+
+### Dein Rechner, deine Karten
+
+GLX Kartenlegen arbeitet auf deinem PC. Karten, Deutungen und gespeicherte Legungen werden nicht ins Internet geschickt. Nur die Update-Suche fragt bei glx-tools.de nach einer neuen Version, die du dann mit einem Klick installierst.
+
+### 14 Tage kostenlos testen
+
+Probiere alles 14 Tage lang ohne Einschränkung aus. Danach schaltest du das Programm mit deinem Lizenzschlüssel frei. Anleitung und Geschichte der Decks bleiben auch ohne Lizenz frei lesbar.
+
+---
+
 ## 📸 Überblick & Screenshots
 
 ### 1️⃣ Acht Kartendecks zur Auswahl
